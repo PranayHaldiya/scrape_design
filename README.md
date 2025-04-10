@@ -11,6 +11,21 @@ A powerful web application that transforms website content into shadcn component
 - **Modern UI**: Built with shadcn/ui components and Tailwind CSS
 - **Responsive Design**: Works seamlessly across all devices
 
+### Homepage/Dashboard
+![homepage snap](https://github.com/PranayHaldiya/scrape_design/blob/main/public/Screenshot%202025-04-10%20174730.png)
+
+### Scarpping Website
+![scrapping snap](https://github.com/PranayHaldiya/scrape_design/blob/main/public/demo.png)
+
+### Button Example
+![button snap](https://github.com/PranayHaldiya/scrape_design/blob/main/public/Screenshot%202025-04-10%20174752.png)
+
+### Card Example
+![Card snap](https://github.com/PranayHaldiya/scrape_design/blob/main/public/Screenshot%202025-04-10%20174806.png)
+
+### Form Example
+![homepage snap](https://github.com/PranayHaldiya/scrape_design/blob/main/public/Screenshot%202025-04-10%20174817.png)
+
 ## 🛠️ Technology Stack
 
 - **Frontend**: Next.js 15, React 19
