@@ -30,7 +30,7 @@ export default function RootLayout({
         {children}
          <Script
           defer
-          data-domain="scrape-design.vercel.app"// Replace with your domain
+          data-domain="scrape-design-3hwkufl00-pranay-haldiyas-projects.vercel.app"// Replace with your domain
           src="https://analytics-code.vercel.app/tracking-script.js"
         />
       </body>
