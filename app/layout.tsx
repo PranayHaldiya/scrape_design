@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-
+import Script from "next/script";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -28,6 +28,11 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased h-full bg-slate-50`}
       >
         {children}
+         <Script
+          defer
+          data-domain="scrape-design.vercel.app"// Replace with your domain
+          src="https://analytics-code.vercel.app/tracking-script.js"
+        />
       </body>
     </html>
   );
