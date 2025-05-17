@@ -10,7 +10,7 @@ A powerful web application that transforms website content into shadcn component
 - **Code Editor**: Built-in Monaco editor for code editing and customization
 - **Modern UI**: Built with shadcn/ui components and Tailwind CSS
 - **Responsive Design**: Works seamlessly across all devices
-- 
+
 # Note-
 You will not be able to generate Shadcn components from the Homepage because it uses screenshots that require premium scrapper api plan, you can use scraper from the Web Scraper page.
 
